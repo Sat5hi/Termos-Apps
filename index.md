@@ -112,11 +112,11 @@ práticas de quaisquer sites ou serviços de terceiros.
  
 
 6. Privacidade para crianças
-Estes Serviços não se dirigem a ninguém com idade inferior a 16 anos. Não recolho intencionalmente
+Estes Serviços não se dirigem a ninguém com idade inferior a 13 anos. Não recolho intencionalmente
 
-informações de identificação pessoal de crianças menores de 16 anos. No caso, eu descubro que
+informações de identificação pessoal de crianças menores de 13 anos. No caso, eu descubro que
 
-uma criança menor de 16 anos forneceu-me informações pessoais, eu as apago imediatamente
+uma criança menor de 13 anos forneceu-me informações pessoais, eu as apago imediatamente
 
 informações. Se você é um pai ou responsável e sabe que seu filho tem
 
