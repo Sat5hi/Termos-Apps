@@ -1,1 +1,1 @@
-# Termos.github.io
+# Repositório para armazenamento de termos
